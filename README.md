@@ -69,8 +69,8 @@ Una vez el Bot esté creado, nos aparecerá un mensaje con el `TOKEN`de acceso (
 
 
 ```python
-TOKEN = "1822940565:AAE0LgfWU7Og8bDu1EJRccF9rpFCRlVLvMc" # @param {type: "string"}
-CHAT_ID = "1115311095" # @param {type: "string"}
+TOKEN = "" # @param {type: "string"}
+CHAT_ID = "" # @param {type: "string"}
 ```
 
 ## Primer mensaje 
